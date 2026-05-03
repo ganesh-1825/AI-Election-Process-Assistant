@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is an election?",
+    "answer": "An election is a process where citizens vote to choose their representatives or leaders. It is a key part of democracy that allows people to select who will govern them."
+  },
+  {
+    "question": "Who is eligible to vote in India?",
+    "answer": "Any Indian citizen who is 18 years or older and registered in the electoral roll is eligible to vote."
+  },
+  {
+    "question": "How do I register to vote?",
+    "answer": "You can register by visiting the National Voters' Service Portal (NVSP) at voters.eci.gov.in, filling Form 6, and submitting required documents like ID and address proof."
+  },
+  {
+    "question": "What documents are required for voter registration?",
+    "answer": "You need proof of identity (Aadhaar, PAN, Passport) and proof of address (electricity bill, rent agreement, etc.)."
+  },
+  {
+    "question": "What is a voter ID card?",
+    "answer": "A voter ID card (EPIC — Elector Photo Identity Card) is an official document issued by the Election Commission of India that allows you to vote and also serves as a general-purpose identity proof."
+  },
+  {
+    "question": "What are the stages of an election?",
+    "answer": "The main stages are: 1) Announcement of elections, 2) Nomination filing, 3) Scrutiny, 4) Campaigning, 5) Voting Day, 6) Counting and results declaration."
+  },
+  {
+    "question": "What happens after election dates are announced?",
+    "answer": "After announcement, the Model Code of Conduct (MCC) kicks in immediately. Candidates file nominations, election campaigns begin, and preparations for voting are made by the Election Commission."
+  },
+  {
+    "question": "What is nomination filing?",
+    "answer": "It is the process where candidates submit their Form 2A/2B nomination papers to the Returning Officer, along with a security deposit and a Form 26 affidavit declaring assets and criminal record."
+  },
+  {
+    "question": "What is election campaigning?",
+    "answer": "Campaigning is when candidates promote themselves and their policies to voters through rallies, door-to-door canvassing, social media, and advertisements. Campaigning must end 48 hours before polling day (the 'silence period')."
+  },
+  {
+    "question": "What happens on voting day?",
+    "answer": "Voters go to their assigned polling booth (open 7 AM – 6 PM), verify their identity with EPIC or an alternate ID, receive an indelible ink mark, sign Form 17A, and cast their vote using an Electronic Voting Machine (EVM). A VVPAT slip is displayed for 7 seconds for verification."
+  },
+  {
+    "question": "What is an EVM?",
+    "answer": "An Electronic Voting Machine (EVM) is a tamper-proof electronic device used to record votes in Indian elections. It replaces paper ballots and is used alongside VVPAT for transparency."
+  },
+  {
+    "question": "Can I vote without a voter ID?",
+    "answer": "Yes, you can vote using other approved identity documents such as Aadhaar card, PAN card, Passport, or Driving Licence, as long as your name appears on the electoral roll."
+  },
+  {
+    "question": "How do I find my polling station?",
+    "answer": "You can find your polling station on the NVSP website (voters.eci.gov.in) using the 'Know Your Polling Station' feature, or through the Voter Helpline app using your EPIC number."
+  },
+  {
+    "question": "What happens after voting ends?",
+    "answer": "EVMs are sealed and stored in secured strongrooms under CRPF guard with CCTV surveillance until the counting day announced by the Election Commission."
+  },
+  {
+    "question": "How are votes counted?",
+    "answer": "On counting day, postal ballots are counted first, followed by EVM round-by-round counting under the Returning Officer. 5 randomly selected VVPAT slips per Assembly segment are tallied with EVM counts to verify accuracy."
+  },
+  {
+    "question": "When are election results declared?",
+    "answer": "Results are usually declared on counting day itself, after all rounds of counting are complete and verified. The Returning Officer then issues Form 21C (Certificate of Election) to the winning candidate."
+  },
+  {
+    "question": "Why is voting important?",
+    "answer": "Voting allows citizens to choose their leaders and influence government decisions, making it a fundamental democratic right. Every vote counts and helps determine who governs the country."
+  },
+  {
+    "question": "What if I make a mistake while voting?",
+    "answer": "You should inform the Presiding Officer immediately before leaving the booth. In some cases, a 'tendered vote' provision may apply. Once the EVM button is pressed the vote is final, so press carefully."
+  },
+  {
+    "question": "Is voting compulsory in India?",
+    "answer": "No, voting is not compulsory in India. However, it is strongly encouraged as a fundamental civic responsibility and democratic right."
+  },
+  {
+    "question": "What is NOTA?",
+    "answer": "NOTA stands for 'None of the Above'. It is an option on the EVM that allows voters to formally reject all candidates if they do not find any suitable, while still recording their participation in the election."
+  }
+]

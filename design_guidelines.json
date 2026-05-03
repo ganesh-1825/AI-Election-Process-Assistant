@@ -1,0 +1,139 @@
+{
+  "theme": {
+    "mode": "light",
+    "archetype": "4 (Swiss & High-Contrast) optimized for civic education",
+    "rationale": "Provides authority, clarity, and truth while remaining approachable for first-time youth voters. Evokes a sense of modern, transparent government."
+  },
+  "colors": {
+    "background": {
+      "primary": "#F8FAFC",
+      "secondary": "#FFFFFF",
+      "tertiary": "#F1F5F9",
+      "overlay": "rgba(15, 23, 42, 0.4)"
+    },
+    "text": {
+      "primary": "#0F172A",
+      "secondary": "#334155",
+      "muted": "#64748B",
+      "inverse": "#F8FAFC"
+    },
+    "primary": {
+      "base": "#1E3A8A",
+      "hover": "#1E40AF",
+      "light": "#DBEAFE"
+    },
+    "accent_1": {
+      "base": "#EA580C",
+      "hover": "#C2410C",
+      "light": "#FFEDD5",
+      "description": "Saffron for action/energy"
+    },
+    "accent_2": {
+      "base": "#16A34A",
+      "hover": "#15803D",
+      "light": "#DCFCE7",
+      "description": "Green for success/verification"
+    },
+    "surface": {
+      "border": "#E2E8F0",
+      "card_bg": "#FFFFFF",
+      "glass": "bg-white/70 backdrop-blur-xl border border-white/40 shadow-sm"
+    }
+  },
+  "typography": {
+    "fonts": {
+      "heading": "Cabinet Grotesk, sans-serif",
+      "body": "IBM Plex Sans, sans-serif",
+      "mono": "IBM Plex Mono, monospace"
+    },
+    "sizes": {
+      "h1": "text-4xl sm:text-5xl lg:text-6xl tracking-tight leading-none font-black text-slate-900",
+      "h2": "text-3xl sm:text-4xl tracking-tight leading-tight font-bold text-slate-900",
+      "h3": "text-xl sm:text-2xl tracking-tight font-semibold text-slate-800",
+      "h4": "text-lg sm:text-xl font-semibold text-slate-800",
+      "body_large": "text-lg leading-relaxed text-slate-700",
+      "body": "text-base leading-relaxed text-slate-600",
+      "small": "text-sm text-slate-500",
+      "overline": "text-xs font-bold uppercase tracking-[0.2em] text-slate-500"
+    }
+  },
+  "layout_spacing": {
+    "philosophy": "Generous Spacing, Mobile-first, Optical alignment",
+    "container": "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8",
+    "section_padding": "py-16 md:py-24 lg:py-32",
+    "gap_system": {
+      "tight": "gap-4",
+      "base": "gap-8",
+      "loose": "gap-12 lg:gap-16"
+    },
+    "bento_grid": "grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6",
+    "timeline_grid": "flex flex-col relative before:absolute before:inset-0 before:ml-5 before:-translate-x-px md:before:mx-auto md:before:translate-x-0 before:h-full before:w-0.5 before:bg-gradient-to-b before:from-transparent before:via-slate-300 before:to-transparent"
+  },
+  "components": {
+    "cards": {
+      "style": "Neumorphic/Clay & Crisp: bg-white shadow-sm border border-slate-200 rounded-2xl p-6 md:p-8 hover:-translate-y-1 hover:shadow-md transition-all duration-300",
+      "rules": "Internal padding must be p-6 or p-8 to prevent text collision. Never use grey-on-grey."
+    },
+    "buttons": {
+      "primary": "bg-blue-900 text-white hover:bg-blue-800 rounded-full px-6 py-3 font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-900",
+      "secondary": "bg-white text-slate-900 border border-slate-200 hover:bg-slate-50 rounded-full px-6 py-3 font-medium transition-colors",
+      "accent": "bg-orange-600 text-white hover:bg-orange-700 rounded-full px-6 py-3 font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-600"
+    },
+    "chat_assistant": {
+      "container": "fixed bottom-4 right-4 w-[350px] md:w-[400px] max-h-[600px] bg-white rounded-2xl shadow-[0_8px_32px_rgba(0,0,0,0.12)] border border-slate-200 flex flex-col overflow-hidden z-50",
+      "header": "bg-blue-900 text-white p-4 flex justify-between items-center font-semibold",
+      "messages": "flex-1 overflow-y-auto p-4 space-y-4 bg-slate-50",
+      "input_area": "p-4 bg-white border-t border-slate-100"
+    },
+    "navigation": {
+      "style": "Glassmorphism: sticky top-0 z-50 bg-white/80 backdrop-blur-xl border-b border-slate-200/50"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "category": "hero",
+        "url": "https://static.prod-images.emergentagent.com/jobs/63a34850-6f7b-4f6a-9a18-6817ac970910/images/cfbc4f97de2650855ff0e196105078ef8b695098e6d6fcf774cdbe2fe5578524.png",
+        "description": "3D illustration of an interactive ballot box with floating digital UI elements representing civic duty, voting, and democracy.",
+        "usage": "Use in the hero section to set a modern, tech-forward, civic tone."
+      },
+      {
+        "category": "background_abstract",
+        "url": "https://static.prod-images.emergentagent.com/jobs/63a34850-6f7b-4f6a-9a18-6817ac970910/images/e9b852f0abc3d406795283c6d21e986b5e591e512c1cbe263f945fbed4f70666.png",
+        "description": "Abstract geometric background with soft gradients.",
+        "usage": "Use as a full-screen background for landing pages or specific sections requiring depth."
+      },
+      {
+        "category": "feature_voting_machine",
+        "url": "https://static.prod-images.emergentagent.com/jobs/63a34850-6f7b-4f6a-9a18-6817ac970910/images/838a7f1297bfaf334698c2c00f2d24ed29b600f8c5064fd11455b14c6e0b9ffe.png",
+        "description": "Minimalist modern 3D illustration of an Indian electronic voting machine (EVM).",
+        "usage": "Use in the 'How to Vote' step-by-step section."
+      },
+      {
+        "category": "background_topo",
+        "url": "https://static.prod-images.emergentagent.com/jobs/63a34850-6f7b-4f6a-9a18-6817ac970910/images/a9716123d650b46a8cca7cf210ea192cc564dfe88f12ed5be12d5964314abbd7.png",
+        "description": "Abstract seamless texture with subtle noise grain and delicate topographical contour lines.",
+        "usage": "Use as a textured background for the quiz or timeline section."
+      }
+    ]
+  },
+  "interactions": {
+    "hover": "All interactive elements must explicitly define hover text and background. Scale transform: hover:-translate-y-1 for cards.",
+    "focus": "High contrast focus rings required: focus:outline-none focus:ring-2 focus:ring-blue-900 focus:ring-offset-2",
+    "timeline": "Timeline nodes should pulse or grow on hover. Details panel should slide in or fade in gracefully (Framer Motion).",
+    "chat": "Chat bubbles should appear with a slight slide-up and fade-in animation."
+  },
+  "accessibility": {
+    "contrast": "Ensure minimum 4.5:1 for normal text, 3:1 for large text. Avoid transparent backgrounds behind text.",
+    "motion": "Respect prefers-reduced-motion media query for animations.",
+    "testing": "All interactive and key informational elements MUST include `data-testid` attribute (kebab-case, role-based)."
+  },
+  "instructions_to_main_agent": [
+    "Use @phosphor-icons/react or lucide-react for icons.",
+    "Implement the 'Interactive Election Timeline' using a vertical scroll layout (or proportional horizontal on desktop) with pop-ups/hovers for hidden details.",
+    "Implement 'Step-by-Step Voting Guide' using a Bento Grid approach to present modular content.",
+    "For the 'AI Chat Assistant', use a sticky glassmorphic floating button or a sidebar that expands. Tone should be non-political, educational.",
+    "Use Google Fonts for importing Cabinet Grotesk or use Outfit. Use IBM Plex Sans for body.",
+    "Use Shadcn UI for forms, tabs, dropdowns, and cards, but customize them by softening borders and using generous padding (p-6 or p-8)."
+  ]
+}
